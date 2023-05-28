@@ -1,16 +1,11 @@
 # meals_app
 
-A new Flutter project.
+- A new Flutter application that shows the meals of a restaurant. 
+- Clients can see the different meals of the restaurant with their ingredients and select the ones they like to add to a favorite list.
+- Clients can also filter the meals according to categories such as gluten-free, lactose-free, vegan, and vegetarian
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+- You can find attached a video that describes what can the app exactly do:
+https://github.com/Ghaithmeftah/Meals_app/assets/93932163/10f07ef2-9515-4b98-b830-2491bfdaf7fe
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
